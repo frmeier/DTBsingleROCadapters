@@ -1,0 +1,17 @@
+This is a list of the single ROC adaper cards that have been manufactured by UNL
+
+The testing is a black-box test: Hook up the connector to the DTB, insert a chip with sensor, do chiptest without and with HV.
+
+No. mfg date    Test status Status/Shipped to
+--- ----------- ----------- ------------------------------------------
+  1 17-AUG-2013 ok          UNL, re-glued Samtec connector
+  2 21-AUG 2013 fail        UNL, investigate (HV failed)
+  3 21-AUG-2013 ok          FNAL 26-AUG-2013
+  4 23-AUG-2013 ok          PSI 26-AUG-2013
+  5 23-AUG-2013 ok          PSI 26-AUG-2013
+  6 23-AUG-2013 ok          PSI 26-AUG-2013
+  7 23-AUG-2013 ok          PSI 26-AUG-2013
+  8 23-AUG-2013 ok          PSI 26-AUG-2013
+  9 23-AUG-2013 ok          UNL
+ 10
+
