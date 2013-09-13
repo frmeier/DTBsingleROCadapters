@@ -18,16 +18,17 @@ No. mfg date    Test status Instit. Ship date   Comments
  12 09-SEP-2013 ok          FNAL    11-SEP-2013
  13 09-SEP-2013 ok          Purdue  11-SEP-2013
  14 09-SEP-2013 ok          UNL                 replaced R1 to fix from error 4. Ok now.
----------------------------------------------------------------------- below this line: currently on order
- 15 10-SEP-2013 fail        DESY                investigate, no HV
+---------------------------------------------------------------------- below this line: will be shipped soon
+ 15 10-SEP-2013 ok          DESY                initially no HV, resoldered and now ok
  16 11-SEP-2013 ok          DESY
  17 12-SEP-2013 ok          DESY
  18 12-SEP-2013 ok          DESY
  19 12-SEP-2013 ok          DESY
  20 12-SEP-2013 ok          DESY
  21 12-SEP-2013 ok          DESY
- 22                         DESY
- 23                         KIT
+ 22 13-SEP-1013 ok          DESY
+ 23 13-SEP-2013 ok          KIT
+---------------------------------------------------------------------- below this line: currently on order and being manufactured
  24                         KIT
  25                         KIT
  26                         KIT
