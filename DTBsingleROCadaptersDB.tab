@@ -19,13 +19,13 @@ No. mfg date    Test status Instit. Ship date   Comments
  13 09-SEP-2013 ok          Purdue  11-SEP-2013
  14 09-SEP-2013 ok          UNL                 replaced R1 to fix from error 4. Ok now.
 ---------------------------------------------------------------------- below this line: currently on order
- 15 10-SEP-2013             DESY
- 16 11-SEP-2013             DESY
- 17 12-SEP-2013             DESY
- 18 12-SEP-2013             DESY
- 19 12-SEP-2013             DESY
- 20 12-SEP-2013             DESY
- 21 12-SEP-2013             DESY
+ 15 10-SEP-2013 fail        DESY                investigate, no HV
+ 16 11-SEP-2013 ok          DESY
+ 17 12-SEP-2013 ok          DESY
+ 18 12-SEP-2013 ok          DESY
+ 19 12-SEP-2013 ok          DESY
+ 20 12-SEP-2013 ok          DESY
+ 21 12-SEP-2013 ok          DESY
  22                         DESY
  23                         KIT
  24                         KIT
@@ -54,16 +54,16 @@ No. mfg date    Test status Instit. Ship date   Comments
  47                         PSI
  48                         PSI
  49                         PSI
- 50
- 51
- 52
- 53
- 54
- 55
- 56
- 57
- 58
- 59
+ 50                         Perugia
+ 51                         Perugia
+ 52                         Perugia
+ 53                         Perugia
+ 54                         Perugia
+ 55                         Perugia
+ 56                         Perugia
+ 57                         Perugia
+ 58                         Perugia
+ 59                         Perugia
  60
 
 Entries with UNL as institute, test status on ok and no ship date are on stock.
