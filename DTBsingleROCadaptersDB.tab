@@ -28,10 +28,10 @@ No. mfg date    Test status Instit. Ship date   Comments
  21 12-SEP-2013 ok          DESY
  22 13-SEP-1013 ok          DESY
  23 13-SEP-2013 ok          KIT
+ 24 13-SEP-2013 ok          KIT
+ 25 13-SEP-2013 ok          KIT
 ---------------------------------------------------------------------- below this line: currently on order and being manufactured
- 24                         KIT
- 25                         KIT
- 26                         KIT
+ 26 13-SEP-2013 fail        KIT                  no HV
  27                         KIT
  28                         RWTH
  29                         RWTH
