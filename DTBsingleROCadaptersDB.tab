@@ -65,7 +65,27 @@ No. mfg date    Test status Instit. Ship date   Comments
  57                         Perugia
  58                         Perugia
  59                         Perugia
- 60
+ 60                         KU
+ 61                         KU
+ 62
+ 63
+ 64
+ 65
+ 66
+ 67
+ 68
+ 69
+ 70
+ 71
+ 72
+ 73
+ 74
+ 75
+ 76
+ 77
+ 78
+ 79
+ 80 --- stock of parts lasts until here
 
 Entries with UNL as institute, test status on ok and no ship date are on stock.
 
