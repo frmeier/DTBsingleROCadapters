@@ -45,18 +45,18 @@ No. mfg date    Test status Instit. Ship date   Comments
  38 17-SEP-2013 ok          Perugia
  39 17-SEP-2013 ok          Perugia
 ---------------------------------------------------------------------- below this line: currently on order and being manufactured
- 40                         Perugia
- 41                         Perugia
- 42                         Perugia
- 43                         Perugia
- 44                         Perugia
- 45                         KU
- 46                         KU
- 47                         PSI
- 48                         PSI
- 49                         PSI
- 50                         PSI
- 51                         PSI
+ 40 17-SEP-2013             Perugia
+ 41 17-SEP-2013             Perugia
+ 42 17-SEP-2013             Perugia
+ 43 17-SEP-2013             Perugia
+ 44 17-SEP-2013             Perugia
+ 45 17-SEP-2013             KU
+ 46 17-SEP-2013             KU
+ 47 18-SEP-2013             PSI
+ 48 18-SEP-2013             PSI
+ 49 18-SEP-2013             PSI
+ 50 18-SEP-2013             PSI
+ 51 18-SEP-2013             PSI
  52                         PSI
  53                         PSI
  54                         PSI
@@ -78,8 +78,8 @@ No. mfg date    Test status Instit. Ship date   Comments
  69                         ETH
  70                         ETH
  71                         ETH
- 72
- 73
+ 72                         Rice
+ 73                         Rice
  74
  75
  76
