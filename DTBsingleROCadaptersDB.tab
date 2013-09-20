@@ -77,9 +77,9 @@ No. mfg date    Test status Instit. Ship date   Comments
  69 20-SEP-2013 fail        ETH
  70 20-SEP-2013 ok          ETH
 ---------------------------------------------------------------------- below this line: currently on order and being manufactured
- 71                         ETH
- 72                         Rice
- 73                         Rice
+ 71 20-SEP-2013 ok          ETH
+ 72 20-SEP-2013 ok          Rice
+ 73 20-SEP-2013 ok          Rice
  74
  75
  76
