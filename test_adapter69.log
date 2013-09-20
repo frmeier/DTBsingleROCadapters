@@ -1,0 +1,36 @@
+[OPEN] Fri Sep 20 14:44:58 2013
+[VERSION] PSI46V2 ROC/Wafer Tester V1.3 (23.08.2013)
+[DTB]
+Board id:    22
+HW version:  DTB1.2
+FW version:  1.1
+SW version:  1.7
+USB id:      DTB_WRE4TS
+MAC address: 40D855118016
+Hostname:    pixelDTB022
+Comment:     
+[CHIP1]  hvoff
+[BEGIN] Fri Sep 20 14:45:05 2013
+[PON]  1
+Idig=  0.00 mA
+Iana=  0.00 mA
+[INIT]
+Idig=  0.00 mA
+Iana=  0.00 mA
+[CLASS]  5
+[POFF]  2
+[END] Fri Sep 20 14:45:06 2013
+
+[CHIP1]  hvon
+[BEGIN] Fri Sep 20 14:45:06 2013
+[PON]  2
+Idig=  0.00 mA
+Iana=  0.00 mA
+[INIT]
+Idig=  0.00 mA
+Iana=  0.00 mA
+[CLASS]  5
+[POFF]  2
+[END] Fri Sep 20 14:45:07 2013
+
+[CLOSE] Fri Sep 20 14:46:14 2013
