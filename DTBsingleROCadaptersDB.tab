@@ -44,7 +44,6 @@ No. mfg date    Test status Instit. Ship date   Comments
  37 17-SEP-2013 ok          Perugia
  38 17-SEP-2013 ok          Perugia
  39 17-SEP-2013 ok          Perugia
----------------------------------------------------------------------- below this line: currently on order and being manufactured
  40 17-SEP-2013 ok          Perugia
  41 17-SEP-2013 ok          Perugia
  42 17-SEP-2013 ok          Perugia
@@ -68,15 +67,16 @@ No. mfg date    Test status Instit. Ship date   Comments
  60 19-SEP-2013 ok          PSI
  61 19-SEP-2013 ok          PSI
 ---------------------------------------------------------------------- below this line: came in after deadline of Fri 13, to be manufactured before Catania workshop on best effort basis
- 62                         ETH
- 63                         ETH
- 64                         ETH
- 65                         ETH
- 66                         ETH
- 67                         ETH
- 68                         ETH
- 69                         ETH
- 70                         ETH
+ 62 20-SEP-2013             ETH
+ 63 20-SEP-2013             ETH
+ 64 20-SEP-2013             ETH
+ 65 20-SEP-2013             ETH
+ 66 20-SEP-2013             ETH
+ 67 20-SEP-2013             ETH
+ 68 20-SEP-2013             ETH
+ 69 20-SEP-2013             ETH
+ 70 20-SEP-2013             ETH
+---------------------------------------------------------------------- below this line: currently on order and being manufactured
  71                         ETH
  72                         Rice
  73                         Rice
