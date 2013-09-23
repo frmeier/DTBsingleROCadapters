@@ -66,7 +66,6 @@ No. mfg date    Test status Instit. Ship date   Comments
  59 19-SEP-2013 ok          PSI
  60 19-SEP-2013 ok          PSI
  61 19-SEP-2013 ok          PSI
----------------------------------------------------------------------- below this line: came in after deadline of Fri 13, to be manufactured before Catania workshop on best effort basis
  62 20-SEP-2013 ok          ETH
  63 20-SEP-2013 ok          ETH
  64 20-SEP-2013 fail        ETH
@@ -76,12 +75,12 @@ No. mfg date    Test status Instit. Ship date   Comments
  68 20-SEP-2013 ok          ETH
  69 20-SEP-2013 ok          ETH   initially conections lost. resoldered and now ok
  70 20-SEP-2013 ok          ETH
----------------------------------------------------------------------- below this line: currently on order and being manufactured
  71 20-SEP-2013 ok          ETH
  72 20-SEP-2013 ok          Rice
  73 20-SEP-2013 ok          Rice
- 74
- 75
+ 74 20-SEP-2013             (spare)
+ 75 20-SEP-2013             (spare)
+---------------------------------------------------------------------- below this line: currently on order and being manufactured
  76
  77
  78
