@@ -66,18 +66,18 @@ No. mfg date    Test status Instit. Ship date   Comments
  59 19-SEP-2013 ok          PSI     24-SEP-2013
  60 19-SEP-2013 ok          PSI     24-SEP-2013
  61 19-SEP-2013 ok          PSI     24-SEP-2013
- 62 20-SEP-2013 ok          ETH
- 63 20-SEP-2013 ok          ETH
+ 62 20-SEP-2013 ok          ETH     26-SEP-2013
+ 63 20-SEP-2013 ok          ETH     26-SEP-2013
  64 20-SEP-2013 fail                            broken connections, may be recovered
- 65 20-SEP-2013 ok          ETH
- 66 20-SEP-2013 ok          ETH
- 67 20-SEP-2013 ok          ETH
- 68 20-SEP-2013 ok          ETH
- 69 20-SEP-2013 ok          ETH                     initially conections lost. resoldered and now ok
- 70 20-SEP-2013 ok          ETH
- 71 20-SEP-2013 ok          ETH
- 72 20-SEP-2013 ok          Rice     24-SEP-2013 in shipment to PSI to be forarded to CERN/TIF
- 73 20-SEP-2013 ok          Rice     24-SEP-2013
+ 65 20-SEP-2013 ok          ETH     26-SEP-2013
+ 66 20-SEP-2013 ok          ETH     26-SEP-2013
+ 67 20-SEP-2013 ok          ETH     26-SEP-2013
+ 68 20-SEP-2013 ok          ETH     26-SEP-2013
+ 69 20-SEP-2013 ok          ETH     26-SEP-2013 initially conections fails. resoldered and now ok
+ 70 20-SEP-2013 ok          ETH     26-SEP-2013
+ 71 20-SEP-2013 ok          ETH     26-SEP-2013
+ 72 20-SEP-2013 ok          Rice    24-SEP-2013 in shipment to PSI to be forarded to CERN/TIF
+ 73 20-SEP-2013 ok          Rice    24-SEP-2013
  74 20-SEP-2013 ok          ETH
  75 20-SEP-2013 ok          UNL
 ---------------------------------------------------------------------- below this line: currently on order and being manufactured on best effort basis
