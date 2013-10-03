@@ -68,7 +68,7 @@ No. mfg date    Test status Instit. Ship date   Comments
  61 19-SEP-2013 ok          PSI     24-SEP-2013
  62 20-SEP-2013 ok          ETH     26-SEP-2013
  63 20-SEP-2013 ok          ETH     26-SEP-2013
- 64 20-SEP-2013 fail                            broken connections, may be recovered
+ 64 20-SEP-2013 fail        UNL                 broken pin, may be recovered
  65 20-SEP-2013 ok          ETH     26-SEP-2013
  66 20-SEP-2013 ok          ETH     26-SEP-2013
  67 20-SEP-2013 ok          ETH     26-SEP-2013
@@ -81,11 +81,11 @@ No. mfg date    Test status Instit. Ship date   Comments
  74 20-SEP-2013 ok          ETH     26-SEP-2013
  75 20-SEP-2013 ok          UNL
 ---------------------------------------------------------------------- below this line: currently on order and being manufactured on best effort basis
- 76                         Peisert
- 77                         Peisert
- 78                         Peisert
- 79                         Peisert
- 80                         Peisert
+ 76 03-OCT-2013             Peisert
+ 77 03-OCT-2013             Peisert
+ 78 03-OCT-2013             Peisert
+ 79 03-OCT-2013             Peisert
+ 80 03-OCT-2013             Peisert
  81
  82
  83
