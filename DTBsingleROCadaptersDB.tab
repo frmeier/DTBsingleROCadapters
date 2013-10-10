@@ -86,16 +86,17 @@ No. mfg date    Test status Instit. Ship date   Comments
  79 03-OCT-2013 ok          Peisert 04-OCT-2013
  80 03-OCT-2013 ok          Peisert 04-OCT-2013
 ---------------------------------------------------------------------- below this line: currently on order and being manufactured on best effort basis
- 81
- 82
- 83
- 84
- 85
- 86
- 87
- 88
- 89
- 90 --- stock of parts lasts until here
+ 81                         FNAL
+ 82                         FNAL
+ 83                         FNAL
+ 84                         FNAL
+ 85                         FNAL
+ 86                         FNAL
+ 87                         FNAL
+ 88                         FNAL
+ 89                         FNAL
+ 90                         FNAL
+ --- stock of parts lasts until here
 
 Entries with UNL as institute, test status on ok and no ship date are on stock.
 
